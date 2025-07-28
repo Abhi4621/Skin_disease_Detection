@@ -1,0 +1,58 @@
+{
+    "acne/rosacea": { 
+        "description": "Acne is a persistent skin condition that arises when hair follicles become obstructed due to excess oil and dead skin cells. It commonly presents as blackheads, whiteheads, pimples, and may lead to scarring.",
+        "symptoms": "Scars and Pigmentation",
+        "causes": "Apart from genetic factors, other possible contributors include hormonal imbalances, bacterial infections, dietary influences, and psychological stress.",
+        "treatement-1": "",
+        "treatement-2": ""
+    },
+    "actinic_keratosos/basal_cell_carcinoma": {
+        "description": "Actinic keratosis is a rough, scaly patch of skin that forms due to prolonged exposure to ultraviolet radiation. It is considered a precursor to certain skin cancers and is more frequent in lighter skin tones.",
+        "symptoms": "Actinic keratoses often manifest as dry, flaky patches with a red or irritated base, varying in thickness.",
+        "causes": "Long-term exposure to sunlight or tanning beds results in DNA damage, leading to abnormal skin cell growth.",
+        "treatement-1": "",
+        "treatement-2": ""
+    },
+    "eczema": {
+        "description": "Eczema, or dermatitis, refers to a group of skin disorders marked by redness, itching, and inflammation. Some cases cause blisters, while chronic cases lead to skin thickening.",
+        "symptoms": "Commonly affects the arms, knees, face, and hands, causing dryness, redness, and intense itching.",
+        "causes": "A mix of hereditary and environmental elements contributes to its development, although the exact trigger remains unclear.",
+        "treatement-1": "",
+        "treatement-2": ""
+    },
+    "melanma/nevi/moles": {
+        "description": "Melanoma is an aggressive skin cancer that originates in pigment-producing cells known as melanocytes. It often affects the skin but may develop in other body regions.",
+        "symptoms": "Changes in mole shape, color, or size, and the emergence of new growths that may itch, bleed, or ulcerate.",
+        "causes": "UV radiation exposure and genetic predisposition contribute to cell mutations, increasing the likelihood of melanoma.",
+        "treatement-1": "",
+        "treatement-2": ""
+    },
+    "psoriasis/lichen": {
+        "description": "Psoriasis is an autoimmune disorder that accelerates skin cell turnover, leading to dry, scaly, and inflamed patches.",
+        "symptoms": "Characterized by raised, red plaques covered with silvery scales, typically appearing on the elbows, knees, scalp, and back.",
+        "causes": "The exact origin is unknown, but immune system dysfunction combined with genetic and environmental elements is suspected.",
+        "treatement-1": "",
+        "treatement-2": ""
+    },
+    "tinea_ringworm/candidiasis": {
+        "description": "Candidiasis is a fungal infection caused by Candida species, often affecting the mouth, throat, skin, and genitals. It may result in irritation and discomfort.",
+        "symptoms": "Redness, itching, and white patches on affected areas, sometimes leading to difficulty swallowing if present in the mouth.",
+        "causes": "Fungal overgrowth occurs when the body's natural balance is disrupted due to factors like a weakened immune system, antibiotic use, or excessive moisture.",
+        "treatement-1": "",
+        "treatement-2": ""
+    },
+    "urticaria/hives": {
+        "description": "Hives are a temporary skin reaction characterized by red, raised, and itchy welts that can shift locations within hours.",
+        "symptoms": "Raised, itchy patches that may appear suddenly and move across different parts of the skin.",
+        "causes": "Triggered by allergens, environmental changes, medications, or autoimmune responses leading to histamine release.",
+        "treatement-1": "",
+        "treatement-2": ""
+    },
+    "nail_fungus": {
+        "description": "Nail fungus is an infection that causes nails to become discolored, thickened, and brittle, often affecting toenails more than fingernails.",
+        "symptoms": "Nails may appear yellowish, cracked, distorted, or develop an unpleasant odor.",
+        "causes": "Dermatophytes, yeasts, or molds invade the nail, often thriving in warm, moist environments like sweaty shoes.",
+        "treatement-1": "",
+        "treatement-2": ""
+    }
+}
